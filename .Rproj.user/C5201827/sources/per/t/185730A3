@@ -1,0 +1,26 @@
+{
+    "id": "185730A3",
+    "path": "C:/Users/mfe12kg/OneDrive - The Royal Botanic Gardens, Kew/analyses/data-quality-scores/scripts/01_visualise_quality_scores.R",
+    "project_path": "scripts/01_visualise_quality_scores.R",
+    "type": "r_source",
+    "hash": "2564288088",
+    "contents": "",
+    "dirty": false,
+    "created": 1743072136424.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "99,0",
+        "scrollLine": "74"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743072557,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743072557906,
+    "read_only": false,
+    "read_only_alternatives": []
+}
